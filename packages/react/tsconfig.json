@@ -1,0 +1,6 @@
+{
+  "extends": "@math-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}
