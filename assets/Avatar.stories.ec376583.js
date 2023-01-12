@@ -1,0 +1,2 @@
+import{A as t}from"./index.ecff1163.js";import"./index.aeeb22c2.js";import"./iframe.cb02303d.js";import"./index.a45fef66.js";import"./jsx-runtime.cdb7e192.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/matheusrpd.png",alt:"Matheus Allan"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.ec376583.js.map
